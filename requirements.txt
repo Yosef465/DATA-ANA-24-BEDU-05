@@ -1,0 +1,10 @@
+# uso de jupyter
+notebook
+pandas
+requests
+seaborn
+matplotlib
+scipy
+
+# libreria para analisis de datos 
+scikit-learn
